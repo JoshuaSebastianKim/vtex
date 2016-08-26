@@ -2,5 +2,5 @@ dir: lib
 articles:
   - Overview: README.md
 branches:
- 	- master
- 	- catalog
+  - master
+  - catalog
