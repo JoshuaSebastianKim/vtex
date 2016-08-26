@@ -1,4 +1,4 @@
-dir: /
+dir: lib
 articles:
   - Overview: README.md
 branches:
